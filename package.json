@@ -1,12 +1,12 @@
 {
   "name": "math-algo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "node ./test.js"
   },
-  "author": "",
+  "author": "Gar <mbragee/>",
   "license": "ISC",
   "description": "",
   "keywords": ["algorithms", "basic-math-method"]
