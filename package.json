@@ -1,14 +1,13 @@
 {
-  "name": "algo-helpers",
+  "name": "math-algo",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test.js"
   },
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "algo-helpers": "file:algo-helpers-1.0.0.tgz"
-  }
+  "keywords": ["algorithms", "basic-math-method"]
 }

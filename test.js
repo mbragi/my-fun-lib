@@ -1,4 +1,4 @@
-import { Math, Algo } from "./index.mjs";
+import { Math, Algo } from "./index";
 console.log(Math.add(1, 2))
 console.log(Math.subtraction(1, 2))
 console.log(Math.division(9, 2))
